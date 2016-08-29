@@ -1,0 +1,32 @@
+﻿  AssetManager.cpp
+  Club.cpp
+  Entity.cpp
+Entity.cpp(47): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Entity.cpp(48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Entity.cpp(50): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+Entity.cpp(50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+  Main.cpp
+  Menu.cpp
+  Player.cpp
+Player.cpp(52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Player.cpp(53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Player.cpp(58): warning C4018: '<': signed/unsigned mismatch
+  Playing.cpp
+Playing.cpp(9): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Sabertooth.cpp
+  Spawner.cpp
+  TileMap.cpp
+TileMap.cpp(13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+TileMap.cpp(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+TileMap.cpp(131): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Weapon.cpp
+Weapon.cpp(16): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+Weapon.cpp(16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  290 of 756 functions (38.4%) were compiled, the rest were copied from previous compilation.
+    221 functions were new in current compilation
+    64 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LudumDare36.vcxproj -> c:\users\tommy\documents\visual studio 2015\Projects\LudumDare36\Release\LudumDare36.exe
+  LudumDare36.vcxproj -> c:\users\tommy\documents\visual studio 2015\Projects\LudumDare36\Release\LudumDare36.pdb (Full PDB)
